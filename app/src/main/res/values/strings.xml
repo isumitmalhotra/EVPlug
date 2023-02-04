@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EV Plug</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Plug</string>
+    <string name="second_slide_title">Book Your Slot</string>
+    <string name="third_slide_title">Plan Your Trip</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Hello friends welcome to EV Plug. A redefined solution for finding a nearest charging station for your vehicle. </string>
+    <string name="second_slide_desc">We provide almost all the locations of charging station. You can also book your slot in advance at your favorite charging station</string>
+    <string name="third_slide_desc">You can plan your trips more efficiently by our latest trip planner option by getting all the charger location coming in your route.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you does not have to worry.  </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+</resources>
